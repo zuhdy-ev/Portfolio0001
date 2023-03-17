@@ -1,0 +1,86 @@
+/* All */
+hr {
+    width: 260px;
+    border-top: 3px solid;
+    color: #666;
+}
+
+section {
+    min-height: 730px;
+}
+
+/* Navbar */
+.navbar {
+    opacity: 90%;
+    height: 50px;
+    margin-bottom: 0px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+/* Jumbotron */
+.jumbotron {
+    height: 743px;
+}
+
+.jumbotron .container {
+    width: 500px;
+    height: 350px;
+    margin-top: 145px;
+    margin-bottom: 145px;
+}
+
+.jumbotron img {
+    border: 5px solid #666;
+    box-shadow: 0 25px 100px -25px black;
+
+}
+
+.jumbotron h1 {
+    margin-top: 30px;
+    font-size: 60px;
+}
+
+/* About */
+.about {
+    padding-top: 70px;
+}
+
+/* Portfolio */
+.portfolio {
+    background-color: #eee;
+    padding: 30px;
+    padding-top: 70px;
+    min-height: 730px;
+}
+
+/* Contact me */
+.contact {
+    min-height: 650px;
+    padding: 60px;
+}
+
+/* Footer */
+footer {
+    width: 100%;
+    height: 100px;
+    background-color: #21130d;
+    margin-bottom: 0;
+    padding: 35px;
+}
+
+footer p {
+    color: #eee;
+    text-align: center;
+}
+
+footer p a {
+    text-decoration: none;
+    color: salmon;
+    z-index: 14;
+}
+
+footer p a:hover {
+    text-decoration: none;
+    color: salmon;
+}
